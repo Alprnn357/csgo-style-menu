@@ -10,6 +10,6 @@ Features:
 Put the downloaded .pak file to your cstrike folder (game data).
 
 # Links
-Video preview: [YouTube]()
+Video preview: [YouTube](https://youtu.be/39HVUE52WLQ)
 
 Download: [Releases](https://github.com/Alprnn357/csgo-style-menu/releases)
